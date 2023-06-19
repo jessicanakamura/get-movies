@@ -1,0 +1,26 @@
+.sessaoFiltro {
+    background: #2D0C5E;
+    padding: 5.25rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sessaoFiltroTitulo {
+    font-family:'Roboto', sans-serif;
+    font-size: 3rem;
+    color: #FFFFFF;
+    text-align: center;
+    font-weight: 700;
+    line-height: 3.5rem;
+    margin: 0 20.5rem;
+}
+
+.sessaoFiltroTexto {
+    font-family:'Roboto', sans-serif;
+    font-size: 0.875rem;
+    color:#FFFFFF;
+    font-weight: 700;
+    line-height: 1.25rem;
+    padding-top: 2.5rem;
+}
